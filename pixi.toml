@@ -12,3 +12,4 @@ preview = ["pixi-build"]
 python = "3.12.*"
 pycct = { path = "../pycct" }
 numpy = ">=2.3.5,<3"
+matplotlib = ">=3.10.8,<4"
